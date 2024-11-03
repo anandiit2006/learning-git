@@ -10,7 +10,7 @@ import os, shutil
 import argparse
 import pandas as pd
 
-
+''' This is test for git merge'''
 def build_net(layer_shape, hidden_activation, output_activation):
 	'''Build net with for loop'''
 	layers = []
