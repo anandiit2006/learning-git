@@ -8,6 +8,7 @@ from datetime import datetime
 import gymnasium as gym
 import os, shutil
 import argparse
+import pandas as pd
 
 
 def build_net(layer_shape, hidden_activation, output_activation):
