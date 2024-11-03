@@ -9,7 +9,7 @@ import gymnasium as gym
 import os, shutil
 import argparse
 
-
+''' This is branch learning_b1 for merge conflict '''
 def build_net(layer_shape, hidden_activation, output_activation):
 	'''Build net with for loop'''
 	layers = []
